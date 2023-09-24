@@ -46,4 +46,7 @@ int age;
 
 // everyone else, pay $10
 
+# Part 3
+# Add the following to your program that prints the ticket prices for a user:
 
+     Add another test that checks for any negative values for the variable age. If age is indeed set to a negative value, print "Invalid age" to the console.
