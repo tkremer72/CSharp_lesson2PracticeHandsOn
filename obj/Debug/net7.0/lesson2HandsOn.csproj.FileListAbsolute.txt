@@ -1,0 +1,14 @@
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\bin\Debug\net7.0\lesson2HandsOn.exe
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\bin\Debug\net7.0\lesson2HandsOn.deps.json
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\bin\Debug\net7.0\lesson2HandsOn.runtimeconfig.json
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\bin\Debug\net7.0\lesson2HandsOn.dll
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\bin\Debug\net7.0\lesson2HandsOn.pdb
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.AssemblyInfoInputs.cache
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.AssemblyInfo.cs
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.dll
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\refint\lesson2HandsOn.dll
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.pdb
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\lesson2HandsOn.genruntimeconfig.cache
+C:\Users\tbone\Desktop\FullStackweb\ProgrammingC#\lesson2HandsOn\obj\Debug\net7.0\ref\lesson2HandsOn.dll
