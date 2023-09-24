@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj": {}
+    "c:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj": {
+    "c:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj",
+        "projectUniqueName": "c:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj",
         "projectName": "lesson2HandsOn",
-        "projectPath": "C:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj",
+        "projectPath": "c:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\lesson2HandsOn.csproj",
         "packagesPath": "C:\\Users\\tbone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\obj\\",
+        "outputPath": "c:\\Users\\tbone\\Desktop\\FullStackweb\\ProgrammingC#\\lesson2HandsOn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tbone\\AppData\\Roaming\\NuGet\\NuGet.Config"
